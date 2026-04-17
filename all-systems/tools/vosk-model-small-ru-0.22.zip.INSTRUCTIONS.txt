@@ -1,0 +1,3 @@
+To reconstruct vosk-model-small-ru-0.22.zip, download all .part files and run:
+cat vosk-model-small-ru-0.22.zip.part.* > vosk-model-small-ru-0.22.zip
+(On Windows use: copy /b vosk-model-small-ru-0.22.zip.part.* vosk-model-small-ru-0.22.zip)
